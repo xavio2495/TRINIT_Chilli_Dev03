@@ -1,0 +1,3 @@
+torch
+nougat-ocr -q
+gradio -U -q

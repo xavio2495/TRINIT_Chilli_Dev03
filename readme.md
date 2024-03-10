@@ -10,7 +10,7 @@ This application allows educators and instructors to create customized question 
 * **User-Submitted Questions:** Users can contribute questions to a central database, allowing for a diverse range of content.
 * **Difficulty Levels:**  Specify the desired difficulty level (easy, medium, hard) for each question.
 * **Paper Generation:** Generate question papers with questions selected based on difficulty and user-defined criteria (number of questions, topics covered).
-* **(Optional) Question Ranking:** Implement a system (voting, scoring) for users to rank the quality of submitted questions (future development).
+* **Question Ranking:** Implemented a system (voting, scoring) for users to rank the quality of submitted questions.
 
 ### App Demo
 Google Drive Link: [EUCLID APP DEMO](https://tinyurl.com/euclid-app)
